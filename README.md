@@ -29,14 +29,13 @@ This repository implements a **Retrieval-Augmented Generation (RAG) pipeline** t
 
 ## 📊 Workflow Diagram
 
-(![Workflow Diagram](Pipeline %20flowise.png)
-
+![Workflow Diagram](Pipeline%20flowise.png)
 
 ---
 
 ## 🖼️ System Screenshot
 
-(![System Screenshot](AI%20ETHICS %20RAG%20SYSTEM.png)))
+![System Screenshot](AI%20ETHICS%20RAG%20SYSTEM.png)
 
 ---
 
