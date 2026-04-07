@@ -29,9 +29,6 @@ This repository implements a **Retrieval-Augmented Generation (RAG) pipeline** t
 
 
 
-## 📊 Workflow Diagram
-
-![Workflow Diagram](Pipeline%20flowise.png)
 
 ---
 
